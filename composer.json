@@ -12,7 +12,7 @@
         }
     ],
     "conflict": {
-        "jelix/jelix": "<1.9.0-pre"
+        "jelix/jelix": "<=1.8.20"
     },
     "minimum-stability": "stable",
     "extra" : {
